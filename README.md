@@ -38,3 +38,15 @@ except SlackApiError as e:
 ```
 
 - Here we also ensure that the response back from Slack is a successful one and that the message is the one we sent by using the assert statement.
+
+### Interesting things to try
+
+Make some changes in the code and observe the output.
+
+## Built by (A-Z)
+
+- [Bhimraj Yadav](https://www.facebook.com/bhimrazy)
+
+## License
+
+MIT © bhimrazy
